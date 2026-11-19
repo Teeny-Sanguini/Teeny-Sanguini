@@ -30,10 +30,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I am also an accounting major! I love anime, manga and video games. I'm also an aspiring voice actor!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -54,9 +50,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<div data-importer="socials" align="left">
-  <a href="isncstr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
