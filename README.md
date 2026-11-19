@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Isieni Castro
 
-<h3 align="center">A passionate accounting major and hero in training in the world of programming. I want to become a front-end developer, but I'm currently working on becoming an HTML email developer.</h3>
+<h3 align="center">A passionate hero in training in the world of programming. I want to become a front-end developer, but I'm currently working on becoming an HTML email developer.</h3>
 
 <!--
 **Teeny-Sanguini/Teeny-Sanguini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
